@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
+      <class name="com.test.MavenActitime.TestVerify"/>
       <class name="com.test.MavenActitime.TestActitime"/>
     </classes>
   </test> <!-- Test -->
